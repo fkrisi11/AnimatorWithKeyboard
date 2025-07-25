@@ -13,3 +13,4 @@ There is also a window to adjust the amount of movement, which can be found at<b
 <br><br>
 
 Get the latest release here: [Link](https://github.com/fkrisi11/AnimatorWithKeyboard/releases/latest)
+Or download it via VCC: [Link](https://fkrisi11.github.io/VPM-Package-Listing/)
