@@ -1,5 +1,5 @@
 {
-  "name": "dev.tohruthedragon.com.tohruthedragon.animatorwithkeyboard",
+  "name": "dev.tohruthedragon.animatorwithkeyboard",
   "displayName": "TohruTheDragon - Animator With Keyboard",
   "version": "1.0.0",
   "description": "A Unity addon that lets you move all states in the Animator, using arrow keys on your keyboard.\nYou can move multiple states, and multiple kinds of states at once in one or two directions at once... with Undo support.",
@@ -10,7 +10,7 @@
     "TohruTheDragon",
     "VRChat",
     "Animator",
-	"Tool"
+    "Tool"
   ],
   "author": {
     "name": "TohruTheDragon"
