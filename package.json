@@ -1,22 +1,18 @@
 {
-  "name": "dev.sleightly.template",
-  "displayName": "JS-Template",
-  "version": "0.0.0",
-  "description": "A VPM Package Template",
-  "url": "https://github.com/JustSleightly/JS-Template",
-  "vpmDependencies": {
-    "com.vrchat.avatars": "^3.8.0"
-  },
+  "name": "dev.tohruthedragon.com.tohruthedragon.animatorwithkeyboard",
+  "displayName": "TohruTheDragon - Animator With Keyboard",
+  "version": "1.0.0",
+  "description": "A Unity addon that lets you move all states in the Animator, using arrow keys on your keyboard.\nYou can move multiple states, and multiple kinds of states at once in one or two directions at once... with Undo support.",
+  "url": "https://github.com/fkrisi11/AnimatorWithKeyboard",
+  "vpmDependencies": {},
   "type": "tool",
   "keywords": [
-    "JustSleightly",
-    "Sleightly",
+    "TohruTheDragon",
     "VRChat",
-    "Template"
+    "Animator",
+	"Tool"
   ],
   "author": {
-    "name": "JustSleightly",
-    "email": "just@sleightly.dev",
-    "url": "https://just.sleightly.dev"
+    "name": "TohruTheDragon"
   }
 }
