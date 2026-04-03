@@ -1,7 +1,7 @@
 {
   "name": "dev.tohruthedragon.animatorwithkeyboard",
   "displayName": "TohruTheDragon - Animator With Keyboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Unity addon that lets you move all states in the Animator, using arrow keys on your keyboard. You can move multiple states, and multiple kinds of states at once in one or two directions at once... with Undo support.",
   "url": "https://github.com/fkrisi11/AnimatorWithKeyboard",
   "vpmDependencies": {},
